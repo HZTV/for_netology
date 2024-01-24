@@ -33,7 +33,7 @@ https://hub.docker.com/repository/docker/aleksey123333333/custom-nginx/general
 
 Задача 5
 
-Пункт 1-2: ![Скриншот 24-01-2024 112254](https://github.com/HZTV/for_netology/assets/149588305/52691d8d-a5b0-4028-8b00-df3814971c36)
+Пункт 1-2: ![image](https://github.com/HZTV/for_netology/assets/149588305/21f02689-eabf-42a2-90cf-5c1f07b68bcb)
 Пункт 3: ![Скриншот 23-01-2024 224153](https://github.com/HZTV/for_netology/assets/149588305/3bb02888-051e-4b0f-bfe6-98fd894c1e62)
 Пункт 4-5: Не уверен, что нужны скрины, но если нужны дайте знать.
 Пункт 6: ![Скриншот 23-01-2024 230617](https://github.com/HZTV/for_netology/assets/149588305/0a5bfee6-7fe3-4465-94b6-39158bb73d38)
