@@ -14,6 +14,8 @@ https://hub.docker.com/repository/docker/aleksey123333333/custom-nginx/general
 Задача 3
 
 Пункт 1-3: ![image](https://github.com/HZTV/for_netology/assets/149588305/0aa19a97-4225-467d-8e50-e6dcd4ba3bbe)
+Пункт 3: Контейнер остановился т.к. при подключении через attach происходит подключение к основному процессу контейнера, в данном случае к nginx. 
+И получается, когда жмем Ctrl+C то останавливаем не только сеанс подлючения к контейнеру, но и его основной процесс nginx.
 
 Пункт 4-6: ![image](https://github.com/HZTV/for_netology/assets/149588305/cc9f25f6-cbd5-4297-b855-dcc49e6a5a06)
 
