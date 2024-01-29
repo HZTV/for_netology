@@ -22,7 +22,9 @@ https://hub.docker.com/repository/docker/aleksey123333333/custom-nginx/general
 Пункт 7: ![image](https://github.com/HZTV/for_netology/assets/149588305/3deccb92-3b1b-45b2-976a-c5ef234b1fab)
 
 Пункт 8-10: ![image](https://github.com/HZTV/for_netology/assets/149588305/86b96ce2-d015-4b5b-8ba6-27ec4960f535)
-
+Изначально контейнер запускался с настройками 8080:80 - т.е. 8080 порт хоста приравнивался к порту 80 на довер контейнере. 
+После того, как меняем внутри контейнера конфигурацию nginx, (ставим 81 порт) и сохраняем изменение с reload сервиса nginx, то для докера ничего не изменилось.
+Он всё также считает, что порт приложения nginx=80. 
 Пункт 12: ![image](https://github.com/HZTV/for_netology/assets/149588305/fc7987d5-eb13-4827-92a3-f05b3581fc48)
 
 
