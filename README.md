@@ -46,7 +46,11 @@ a) порт 80 недоступен т.к. мы меняли конфигура�
 
 Пункт 6: Тут ip адресс не совпадает с адресами выше, но я делал задание на виртуалке в яндекс облаке, и яндекс сегодня назначил мне другой ip.
 ![image](https://github.com/HZTV/for_netology/assets/149588305/a9e1f5ad-78f5-4d96-a9ec-6ae77716b6cc)
-![image](https://github.com/HZTV/for_netology/assets/149588305/0af291f1-bc23-4eae-a3c4-1cc97f2f9ff2)
+![image](https://github.com/HZTV/for_netology/assets/149588305/9b719d8a-1f92-4079-bfae-41e9e4b21a56)
+На всякий случай
+![image](https://github.com/HZTV/for_netology/assets/149588305/8e4413d0-59a1-4339-bcee-d8231269e193)
+
+
 
 Пукнт 7: ![image](https://github.com/HZTV/for_netology/assets/149588305/fd76de3c-7950-40d6-ae49-4cc1a554355a)
  
