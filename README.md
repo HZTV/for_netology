@@ -34,15 +34,13 @@ https://hub.docker.com/repository/docker/aleksey123333333/custom-nginx/general
 Задача 5
 
 Пункт 1-2: ![image](https://github.com/HZTV/for_netology/assets/149588305/21f02689-eabf-42a2-90cf-5c1f07b68bcb)
-
 Запустился compose.yaml т.к. такое название файла является стандартным. Compose первым делом будет смотреть в этотм файлик.
 
 Пункт 3: ![Скриншот 23-01-2024 224153](https://github.com/HZTV/for_netology/assets/149588305/3bb02888-051e-4b0f-bfe6-98fd894c1e62)
 Пункт 4-5: Не уверен, что нужны скрины, но если нужны дайте знать.
 
 Пункт 6: ![image](https://github.com/HZTV/for_netology/assets/149588305/a9e1f5ad-78f5-4d96-a9ec-6ae77716b6cc)
-![image](https://github.com/HZTV/for_netology/assets/149588305/cf4208f2-c8f7-4f66-a24d-44cdbf7c8262)
-
+![image](https://github.com/HZTV/for_netology/assets/149588305/0af291f1-bc23-4eae-a3c4-1cc97f2f9ff2)
 
 Пукнт 7: ![image](https://github.com/HZTV/for_netology/assets/149588305/fd76de3c-7950-40d6-ae49-4cc1a554355a)
  
